@@ -1,6 +1,6 @@
 # Hey I' m Abhishek, 👋 :man:💻
 
-<img src="https://raw.githubusercontent.com/imabtiwari/imabtiwari/master/resources/Profilepicture.jpg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/imabtiwari/imabtiwari/master/Profilepicture.jpg" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
