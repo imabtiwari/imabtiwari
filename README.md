@@ -16,8 +16,8 @@ I occasionally blog and tweet about technologies.
 
 ## I am passionate about :blush: 
 
-- Problem Resoution 
-- DevOps Learner 
+- Problem Solving 
+- DevOps learner 
 - Open source
 - Hot technologies 
 - Self-improvement 
