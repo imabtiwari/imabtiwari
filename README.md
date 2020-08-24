@@ -13,6 +13,9 @@ An *IT consultant*; I solve business problems with IT solutions. I am passionate
  
 I occasionally blog and tweet about technologies.
 
+## OS / Tools :computer:
+![mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=999999) ![ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420) ![shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25) ![vscode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) ![figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E) ![googledrive](https://img.shields.io/badge/Office-G_Suite-informational?style=flat&logo=google-drive&logoColor=white&color=4285F4)
+
 
 ## I am passionate about :blush: 
 
